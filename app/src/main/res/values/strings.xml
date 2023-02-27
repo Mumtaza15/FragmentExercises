@@ -8,7 +8,7 @@
 
     <!-- Text for the button in FragmentExample2. -->
     <string name="open">Lihat Kelebihan</string>
-    <string name="close">Mantap</string>
+    <string name="close">Mantap!</string>
 
     <!-- Text for the exception message in FragmentCommunicate. -->
     <string name="exception_message">must implement OnFragmentInteractionListener</string>

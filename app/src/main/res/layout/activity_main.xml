@@ -46,7 +46,8 @@
             android:text="Lihat Kelebihan"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent">
+            app:layout_constraintStart_toStartOf="parent"
+            android:textAllCaps="false">
         </Button>
     </androidx.constraintlayout.widget.ConstraintLayout>
 
